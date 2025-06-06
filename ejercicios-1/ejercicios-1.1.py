@@ -1,4 +1,4 @@
-#esto esta funcionando hay que darmela coño soy el mejor casi casi programador mmg
+#esto esta funcionando hay que darmela coño soy el mejor casi casi programador
 print("qlok")
 
 #promedio de duraciones
