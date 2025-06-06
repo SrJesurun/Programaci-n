@@ -1,0 +1,22 @@
+los datos son: 
+
+Nombre: mario
+Apellido: jesurun
+Edad: 21
+-------------
+Nombre: jorbi
+Apellido: montero
+Edad: 21
+-------------
+Nombre: tatiana
+Apellido: asencio
+Edad: 17
+-------------
+Nombre: daris
+Apellido: jesurun
+Edad: 14
+-------------
+Nombre: yaine
+Apellido: coplin
+Edad: 7
+-------------
