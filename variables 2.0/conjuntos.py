@@ -1,9 +1,9 @@
 #creando un conjunto con set()
-conjunto = set(["dalto 1"])
+conjunto = set(["mario 1"])
 
 #metiendo un conjunto dentro de otro conjunto
-conjunto1 = frozenset(["dato 1", "dato 2"])
-conjunto2 = {conjunto1, "dato 3"}
+conjunto1 = frozenset(["mario 1", "mario 2"])
+conjunto2 = {conjunto1, "mario 3"}
 print(conjunto2)
 
 #teroria de conjunto
