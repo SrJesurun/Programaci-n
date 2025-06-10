@@ -75,7 +75,5 @@ while operador >= 1 <= 8:
         break
         
     else:
+        print("\ntu eres tan idiota que no puedes elejir un simple numero de los que estan hay")
         break
-
-else:
-    print("tu eres tan idiota que no puedes elejir un simple numero de los que estan hay")
