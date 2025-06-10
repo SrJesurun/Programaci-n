@@ -51,7 +51,7 @@ while carrera >= 1 <= 17:
     if carrera == 1:
         rei = reinscripsion * 6
         total = ingles + rei + unico + cib
-        print("La carrera que elegiste es Ciberseguridad")
+        print("La carrera que elegiste es: Ciberseguridad")
         print(f"El precio total de los creditos es de: ", cib)
         print(f"El precio total por reinscripsion es de: ", rei)
         print(f"El precio total por el ingles es de: ", ingles)
@@ -60,10 +60,10 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
         
-if carrera == 2:
+    if carrera == 2:
         rei = reinscripsion * 7
         total = ingles + rei + unico + siv
-        print("La carrera que elegiste es Ciberseguridad")
+        print("La carrera que elegiste es: Simulaciones Interativas y Videojuegos")
         print(f"El precio total de los creditos es de: ", siv)
         print(f"El precio total por reinscripsion es de: ", rei)
         print(f"El precio total por el ingles es de: ", ingles)
@@ -71,3 +71,178 @@ if carrera == 2:
         print(f"El total a pagar por la carrera es de: ", total)
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
+        
+    if carrera == 3:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + tel
+        print("La carrera que elegiste es: Telecomunicaciones")
+        print(f"El precio total de los creditos es de: ", tel)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+        
+    if carrera == 4:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + ia
+        print("La carrera que elegiste es: Inteligencia Artificial")
+        print(f"El precio total de los creditos es de: ", ia)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+        
+    if carrera == 5:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + ifo
+        print("La carrera que elegiste es: Informatica Forence")
+        print(f"El precio total de los creditos es de: ", ifo)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+        
+    if carrera == 6:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + er
+        print("La carrera que elegiste es: Energias Renovable")
+        print(f"El precio total de los creditos es de: ", er)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 7:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + rdi
+        print("La carrera que elegiste es: Redes de Informacion")
+        print(f"El precio total de los creditos es de: ", rdi)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 8:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + meca
+        print("La carrera que elegiste es: Mecatronica")
+        print(f"El precio total de los creditos es de: ", meca)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 9:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + ma
+        print("La carrera que elegiste es: Manufactura Automatizada")
+        print(f"El precio total de los creditos es de: ", ma)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 10:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + mddm
+        print("La carrera que elegiste es: Manufactura de Dispositivos Medicos")
+        print(f"El precio total de los creditos es de: ", mddm)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 11:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + di
+        print("La carrera que elegiste es: Diseño Industrial")
+        print(f"El precio total de los creditos es de: ", di)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 12:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + mul
+        print("La carrera que elegiste es: Multimedia")
+        print(f"El precio total de los creditos es de: ", mul)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 13:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + son
+        print("La carrera que elegiste es: Sonido")
+        print(f"El precio total de los creditos es de: ", son)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 14:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + ddf
+        print("La carrera que elegiste es: Desarrollo de Sofware")
+        print(f"El precio total de los creditos es de: ", ddf)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 15:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + aycdd
+        print("La carrera que elegiste es Analitica y Ciencias de Datos")
+        print(f"El precio total de los creditos es de: ", aycdd)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 16:
+        rei = reinscripsion * 7
+        total = ingles + rei + unico + si
+        print("La carrera que elegiste es: Seguridad Informatica")
+        print(f"El precio total de los creditos es de: ", si)
+        print(f"El precio total por reinscripsion es de: ", rei)
+        print(f"El precio total por el ingles es de: ", ingles)
+        print(f"El precio total de pagos unicos es de: ", unico)
+        print(f"El total a pagar por la carrera es de: ", total)
+        print("\n", menu)
+        carrera = int(input("ingrese la proxima carrera a calcular: "))
+
+    if carrera == 17:
+        print("Gracias por probar mi calculador de carrera")
+        break
+    else:
+        print("tu eres tan idiota que no puedes elejir un simple numero de los que estan hay")
+        break
