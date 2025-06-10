@@ -60,7 +60,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
         
-    if carrera == 2:
+    elif carrera == 2:
         rei = reinscripsion * 7
         total = ingles + rei + unico + siv
         print("La carrera que elegiste es: Simulaciones Interativas y Videojuegos")
@@ -72,7 +72,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
         
-    if carrera == 3:
+    elif carrera == 3:
         rei = reinscripsion * 7
         total = ingles + rei + unico + tel
         print("La carrera que elegiste es: Telecomunicaciones")
@@ -84,10 +84,10 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
         
-    if carrera == 4:
+    elif carrera == 4:
         rei = reinscripsion * 7
         total = ingles + rei + unico + ia
-        print("La carrera que elegiste es: Inteligencia Artificial")
+        print("La carrera que elegiste es: Inteligencia Artelificial")
         print(f"El precio total de los creditos es de: ", ia)
         print(f"El precio total por reinscripsion es de: ", rei)
         print(f"El precio total por el ingles es de: ", ingles)
@@ -96,7 +96,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
         
-    if carrera == 5:
+    elif carrera == 5:
         rei = reinscripsion * 7
         total = ingles + rei + unico + ifo
         print("La carrera que elegiste es: Informatica Forence")
@@ -108,7 +108,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
         
-    if carrera == 6:
+    elif carrera == 6:
         rei = reinscripsion * 7
         total = ingles + rei + unico + er
         print("La carrera que elegiste es: Energias Renovable")
@@ -120,7 +120,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 7:
+    elif carrera == 7:
         rei = reinscripsion * 7
         total = ingles + rei + unico + rdi
         print("La carrera que elegiste es: Redes de Informacion")
@@ -132,7 +132,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 8:
+    elif carrera == 8:
         rei = reinscripsion * 7
         total = ingles + rei + unico + meca
         print("La carrera que elegiste es: Mecatronica")
@@ -144,7 +144,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 9:
+    elif carrera == 9:
         rei = reinscripsion * 7
         total = ingles + rei + unico + ma
         print("La carrera que elegiste es: Manufactura Automatizada")
@@ -156,7 +156,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 10:
+    elif carrera == 10:
         rei = reinscripsion * 7
         total = ingles + rei + unico + mddm
         print("La carrera que elegiste es: Manufactura de Dispositivos Medicos")
@@ -168,7 +168,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 11:
+    elif carrera == 11:
         rei = reinscripsion * 7
         total = ingles + rei + unico + di
         print("La carrera que elegiste es: Diseño Industrial")
@@ -180,7 +180,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 12:
+    elif carrera == 12:
         rei = reinscripsion * 7
         total = ingles + rei + unico + mul
         print("La carrera que elegiste es: Multimedia")
@@ -192,7 +192,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 13:
+    elif carrera == 13:
         rei = reinscripsion * 7
         total = ingles + rei + unico + son
         print("La carrera que elegiste es: Sonido")
@@ -204,7 +204,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 14:
+    elif carrera == 14:
         rei = reinscripsion * 7
         total = ingles + rei + unico + ddf
         print("La carrera que elegiste es: Desarrollo de Sofware")
@@ -216,7 +216,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 15:
+    elif carrera == 15:
         rei = reinscripsion * 7
         total = ingles + rei + unico + aycdd
         print("La carrera que elegiste es Analitica y Ciencias de Datos")
@@ -228,7 +228,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 16:
+    elif carrera == 16:
         rei = reinscripsion * 7
         total = ingles + rei + unico + si
         print("La carrera que elegiste es: Seguridad Informatica")
@@ -240,7 +240,7 @@ while carrera >= 1 <= 17:
         print("\n", menu)
         carrera = int(input("ingrese la proxima carrera a calcular: "))
 
-    if carrera == 17:
+    elif carrera == 17:
         print("Gracias por probar mi calculador de carrera")
         break
     else:
