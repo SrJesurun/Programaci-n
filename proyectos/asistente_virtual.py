@@ -13,8 +13,8 @@ with sr.Microphone() as source:
     print("dijiste:", texto)
     
 if "hora" in texto:
-    from datetime import datatime
-    hora = datatime.now().strftime("%H:%M")
+    from datetime import datetime
+    hora = datetime.now().strftime("%H:%M")
     engine.say(f"la hora es {hora}")
 elif "como estas" in texto:
     engine.say("estoy aprendiendo contigo")
